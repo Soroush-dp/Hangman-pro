@@ -5,7 +5,7 @@ A modern full-stack Hangman game built with Python (Flask) and deployed on Railw
 ---
 
 ## 🚀 Live Demo
-👉 https://hangman-pro-sd.up.railway.app
+👉 https://soroushdp.pythonanywhere.com
 
 ---
 
