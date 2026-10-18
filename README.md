@@ -53,7 +53,7 @@ hangman-pro/
 
 ## 📷 Preview
 
-(Add screenshot here)
+
 
 ---
 
