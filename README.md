@@ -51,12 +51,6 @@ hangman-pro/
 
 ---
 
-## 📷 Preview
-
-
-
----
-
 ## 📬 Contact
 
 Created by: Soroush Daneshpour
