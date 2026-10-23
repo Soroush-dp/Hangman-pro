@@ -51,6 +51,14 @@ hangman-pro/
 
 ---
 
+## 📸 Project Preview
+
+<p align="center">
+  <img src="image.png" alt="Project Preview" width="700">
+</p>
+
+---
+
 ## 📬 Contact
 
 Created by: Soroush Daneshpour
